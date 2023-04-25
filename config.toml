@@ -1,4 +1,5 @@
 baseURL = 'https://yangchenye323.github.io/graphics-site/'
 languageCode = 'en-us'
+copyright = "© Yangchen Ye"
 title = 'My WebGL Projects'
 theme = "hugo-ink"
