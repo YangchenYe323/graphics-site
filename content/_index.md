@@ -2,6 +2,9 @@
 hidden = true
 title = "Home"
 +++
+
+{{< figure src="cover-img.jpeg" caption="<span>Original: <a>https://www.pixiv.net/artworks/89159077</a></span>" >}}
+
 This is a collection of my work at *UIUC's CS418 - Interactive Computer Graphics* Spring 2023 offering.
 
 Course Website: https://cs418.cs.illinois.edu/website/
